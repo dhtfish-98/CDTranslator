@@ -94,7 +94,7 @@ reference; this build check does not validate those variants:
 | Earlier UI drafts | `ContentViewSimple.swift`, `ContentViewFree.swift`, `ContentViewEnhanced.swift`, `ContentView.swift.v3`, `ContentView.swift.v4` |
 | Earlier backends | `Models/TranslationService.swift`, `Models/ChatGPTTranslationService.swift` (OpenAI, needed a key), `Models/FreeTranslationService.swift` |
 | Other build scripts | `build_chatgpt.sh`, `build_free.sh`, `build_simple.sh`, `build_final.sh`, `build_app.sh` — each swaps in one of the backends above |
-| Docs | `CDTranslator_User_Guide.md`, and `docs/index.html`, which is the privacy policy published at <https://dhtfish988.github.io/CDTranslator/> |
+| Docs | `CDTranslator_User_Guide.md`, and `docs/index.html`, which is the privacy policy published at <https://dhtfish-98.github.io/CDTranslator/> |
 | App Store copy | `AppStore_Materials/` |
 
 The app started out calling OpenAI and needing an API key; it does not work that way

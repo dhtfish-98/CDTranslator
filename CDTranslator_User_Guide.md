@@ -34,7 +34,7 @@ not want to send to that service. The endpoint is undocumented and may stop work
 The current source has no translation-history feature or app-specific analytics.
 That does not guarantee the absence of operating-system caches or provider-side
 retention. The current build does not enable App Sandbox. Read the
-[privacy policy](https://dhtfish988.github.io/CDTranslator/) for the data flow.
+[privacy policy](https://dhtfish-98.github.io/CDTranslator/) for the data flow.
 
 OCR accuracy and translation quality vary. A successful compile is not a recorded
 UI or service test; see the README for what has actually been checked.

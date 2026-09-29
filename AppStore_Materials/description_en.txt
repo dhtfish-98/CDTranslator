@@ -15,5 +15,5 @@ The current build has no background clipboard monitoring and does not enable App
 Sandbox. Translation uses an undocumented endpoint and may become unavailable.
 
 Requirements: Apple silicon, macOS 13 or later, internet access for translation.
-Build and validation limits: https://github.com/dhtfish988/CDTranslator
-Privacy policy: https://dhtfish988.github.io/CDTranslator/
+Build and validation limits: https://github.com/dhtfish-98/CDTranslator
+Privacy policy: https://dhtfish-98.github.io/CDTranslator/
