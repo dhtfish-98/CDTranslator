@@ -1,0 +1,30 @@
+{
+  "schema": "project-build-layout.v1",
+  "project": "CDTranslator",
+  "author": "dhtfish98",
+  "kind": "manual",
+  "base_public_commit": "3c6772c58d218df53085852c05c107e6451fcf61",
+  "restored_inputs": [
+    {
+      "original": "CDTranslator_User_Guide.md",
+      "stored": "项目文档/CDTranslator_User_Guide.md",
+      "sha256": "2392418b1d89761b47c969a8dd46f4fd3870eaa974aa20edadf5de071124f347"
+    },
+    {
+      "original": "LICENSE",
+      "stored": "项目文档/LICENSE",
+      "sha256": "1a7f8b0d98b0eac14447cdd09a6dbf649966fba78aa33a45fea6266ed21ade3e"
+    },
+    {
+      "original": "README.md",
+      "stored": "项目文档/README.md",
+      "sha256": "10fbfd7e3cb28487b2a3a5ae43371228e26072fd1e1dadc7bb6bbef706898b54"
+    },
+    {
+      "original": "docs/index.html",
+      "stored": "项目文档/docs/index.html",
+      "sha256": "23a1ef37cbd06e1214c4f47062b8f2655810cb12222d836c881380385460072b"
+    }
+  ],
+  "platform_entries": []
+}

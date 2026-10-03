@@ -28,3 +28,10 @@ __pycache__/
 # Temporary files
 *.tmp
 *.swp
+
+# All generated build outputs and staging are local.
+!/Build/
+/Build/*
+!/Build/.gitignore
+__pycache__/
+*.py[cod]
